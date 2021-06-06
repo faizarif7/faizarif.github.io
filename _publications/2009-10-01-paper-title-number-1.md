@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Geospatial analysis of distribution of community pharmacies and other health care facilities providing minor ailments services in Malaysia"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2021-02-24
+venue: 'Journal of Pharmaceutical Policy and Practice'
+paperurl: 'https://joppp.biomedcentral.com/articles/10.1186/s40545-021-00308-9'
+citation:
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about population access to community pharmacies and other health care facilities that provide minor ailments services in Malaysia which reduces the burden on other health care facilities.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://www.researchgate.net/publication/349603175_Geospatial_analysis_of_distribution_of_community_pharmacies_and_other_health_care_facilities_providing_minor_ailments_services_in_Malaysia)
