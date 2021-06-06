@@ -20,4 +20,4 @@ My current job focus is on low voltage asset mapping for Tenaga Nasional Berhad 
 
 My background and history.
 ------
-I received my M.Sc. in the Geospatial specialisation from the Earth Observation Centre (EOC), Universiti Kebangsaan Malaysia (UKM); and my Bachelor in the Surveying Science and Geomatics program at the Universiti Teknologi MARA. During my stint at EOC, I was scholar under the Zamalah Yayasan Canselor. I conducted studies with regards to geographic information system (GIS) and UAV.
+I received my M.Sc. in the Geospatial specialisation from the Earth Observation Centre (EOC), Universiti Kebangsaan Malaysia (UKM); and my Bachelor in the Surveying Science and Geomatics program at the Universiti Teknologi MARA. During my stint at EOC, I was a scholar under the Zamalah Yayasan Canselor. I conducted studies with regards to geographic information system (GIS) and UAV.
