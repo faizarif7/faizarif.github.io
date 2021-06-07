@@ -11,9 +11,20 @@ redirect_from:
 
 Education
 ======
-* B. in Surveying Science and Geomatics, Universiti Teknologi MARA, 2017
+* Ph.D in Geospatial, (planning for top notch university)
+  * Date: (soon, in-planning, could be, maybe)
+  * Thesis: Integration of Smart City and Air Quality Monitoring
+  * Supervisor: (in-search)
 * M.Sc in Geospatial, Universiti Kebangsaan Malaysia, 2021
-* Ph.D in Geospatial, (planning for top notch university), (soon, in-planning, could be, maybe)
+  * Date: March 2021
+  * Thesis: Evaluation of DTM from UAV at Dynamic Configuration 
+  * Supervisor: Associate Prof. Dr. Khairul Nizam Abdul Maulud
+* B. in Surveying Science and Geomatics, Universiti Teknologi MARA
+  * Date: July 2017
+  * Thesis: Evaluation of Mobile Geospatial Data Collector
+  * Supervisor: Ahmad Norhisyam Idris 
+
+
 
 Work experience
 ======
@@ -29,11 +40,14 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Methodological
+  * UAV mission planning using MapPilot, DJI Go
+  * Photogrammetry data processing using Agisoft Metashape or Photoscan
+  * GPS data acquisition using South Galaxy G1 (and G1 Plus)
+  * LiDAR data acquisition using Riegl VMQ-1HA (MMS) and GeoSLAM ZEB-REVO (backpack)
+* Analytical
+  * GIS data analysis using ArcGIS
+  * Statistical analysis using Minitab
 * Skill 3
 
 Publications
@@ -56,4 +70,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Vice-President, Earth and Space Science Students Association (ESSA), UKM, 2019-2020
+* Committee, ESSA, UKM, 2018-2019
+* President, Geomatics Science Student Society (GEOMASS), UiTM, September 2017 (retire early to focus on studies)
+* Chief of Committee, GEOMASS, UiTM, 2016-2017
+* Committee, GEOMASS, UiTM, 2015-2016
