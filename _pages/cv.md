@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B. in Surveying Science and Geomatics, Universiti Teknologi MARA, 2017
+* M.Sc in Geospatial, Universiti Kebangsaan Malaysia, 2021
+* Ph.D in Geospatial, (planning for top notch university), (soon, in-planning, could be, maybe)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - ongoing: GIS Executive/Surveyor
+  * Spatialworks Sdn. Bhd.
+  * Duties included: Conducting laser scanning survey using LiDAR attached to MMS and Backpack. Also, GPS survey for georeferencing and accuracy checks.
+  * Supervisor: Siow Soo Fei, Mohamad Hanif Kamal Roslan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2020: Research Assistant
+  * Universiti Kebangsaan Malaysia
+  * Duties included: Conducting research in regards to GIS and UAV. Publishing findings in reputable conferences and journal.
+  * Supervisor: Associate Prof. Dr. Khairul Nizam Abdul Maulud
   
 Skills
 ======
