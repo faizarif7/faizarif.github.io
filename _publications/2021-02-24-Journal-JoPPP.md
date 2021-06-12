@@ -1,12 +1,11 @@
 ---
 title: "Geospatial analysis of distribution of community pharmacies and other health care facilities providing minor ailments services in Malaysia"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-02-24-Journal-JoPPP
 excerpt: 'This paper is about population access to community pharmacies and other health care facilities that provide minor ailments services in Malaysia which reduces the burden on other health care facilities.'
 date: 2021-02-24
 venue: 'Journal of Pharmaceutical Policy and Practice'
 paperurl: 'https://joppp.biomedcentral.com/articles/10.1186/s40545-021-00308-9'
-citation:
 ---
 This paper is about population access to community pharmacies and other health care facilities that provide minor ailments services in Malaysia which reduces the burden on other health care facilities.
 
