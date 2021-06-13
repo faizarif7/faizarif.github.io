@@ -23,7 +23,10 @@ Education
   * Date: July 2017
   * Thesis: Evaluation of Mobile Geospatial Data Collector
   * Supervisor: Ahmad Norhisyam Idris 
-
+* Foundation in Engineering, Universiti Teknologi MARA
+  * Date: April 2013
+* Sijil Pelajaran Malaysia, SMK Taman Universiti
+  * Date: December 2011 
 
 
 Work experience
@@ -48,7 +51,6 @@ Skills
 * Analytical
   * GIS data analysis using ArcGIS
   * Statistical analysis using Minitab
-* Skill 3
 
 Publications
 ======
@@ -75,3 +77,10 @@ Service and leadership
 * President, Geomatics Science Student Society (GEOMASS), UiTM, September 2017 (retire early to focus on studies)
 * Chief of Committee, GEOMASS, UiTM, 2016-2017
 * Committee, GEOMASS, UiTM, 2015-2016
+
+Awards and achievements
+======
+* Best Presenter, IPI Research Colloquium, August 2020
+* Zamalah Yayasan Canselor recipient, September 2018
+* Best Presenter, 39th ACRS 2018, August 2018
+* Founding member of Angkasfera, June 2018
