@@ -33,12 +33,12 @@ Education
 
 Work experience
 ======
-* 2020 - ongoing: GIS Executive/Surveyor
+* November 2020 - ongoing: GIS Executive/Surveyor
   * Spatialworks Sdn. Bhd.
   * Duties included: Conducting laser scanning survey using LiDAR attached to MMS and Backpack. Also, GPS survey for georeferencing and accuracy checks.
   * Supervisor: Siow Soo Fei, Mohamad Hanif Kamal Roslan
 
-* 2018 - 2020: Research Assistant
+* September 2018 - September 2020: Research Assistant
   * Universiti Kebangsaan Malaysia
   * Duties included: Conducting research in regards to GIS and UAV. Publishing findings in reputable conferences and journal.
   * Supervisor: Associate Prof. Dr. Khairul Nizam Abdul Maulud
