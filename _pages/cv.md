@@ -21,12 +21,14 @@ Education
   * Supervisor: Associate Prof. Dr. Khairul Nizam Abdul Maulud
 * B. in Surveying Science and Geomatics, Universiti Teknologi MARA
   * Date: July 2017
+  * Graduated Second Class Upper (equivalent Magna cum Laude)
   * Thesis: Evaluation of Mobile Geospatial Data Collector
   * Supervisor: Ahmad Norhisyam Idris 
 * Foundation in Engineering, Universiti Teknologi MARA
   * Date: April 2013
 * Sijil Pelajaran Malaysia, SMK Taman Universiti
-  * Date: December 2011 
+  * Date: December 2011
+  * Graduated with 9A of 9 subjects
 
 
 Work experience
